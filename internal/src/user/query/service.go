@@ -1,7 +1,7 @@
 package user
 
 import (
-	"echo_cqrs/internal/user"
+	"echo_cqrs/internal/src/user"
 
 	"gorm.io/gorm"
 )
